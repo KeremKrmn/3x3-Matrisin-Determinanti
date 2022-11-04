@@ -70,7 +70,7 @@ int main()
 	do {
 
 		cout << "\t\t\t************************************************************" << endl;
-		cout << "\t\t\t* 3x3'luk Bir Matrisin Determinantini Hesaplamayan Program *" << endl;
+		cout << "\t\t\t* 3x3'luk Bir Matrisin Determinantini Hesaplayan Program *" << endl;
 		cout << "\t\t\t************************************************************" << endl;
 
 		cout << endl;
